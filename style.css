@@ -68,11 +68,11 @@
 /* for mobile device */
 @media screen and (max-width:800px) {
     .w3-card-4{
-        width: 94%;
+        width: 92%;
         margin-top: 16px;
     }
     .w3-button{
-        margin-left: 200px;
+        margin-left: 108px;
     }
     .mb{
         margin-bottom: 16px;
